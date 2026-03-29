@@ -1,4 +1,4 @@
-# Robust Representation Learning under Noise and Distribution Shift
+# Representation Learning under Noise and Distribution Shift
 
 This repository contains a research project studying the robustness of learned representations under structured noise and distribution shift.
 
@@ -35,14 +35,3 @@ We introduce a residual corruption pipeline parameterized by an alignment streng
 - Reconstruction-based MAE degrades faster under perturbations
 - Objective design directly impacts robustness and signal stability
 
-## Quant Perspective
-
-This work can be interpreted as studying **signal robustness under noise**, which is directly relevant to:
-
-- feature stability in financial time series
-- robustness of predictive signals
-- modeling under distribution shift
-
-## Report
-
-Full report available here:
